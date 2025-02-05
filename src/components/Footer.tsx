@@ -1,7 +1,7 @@
 const Footer = () => {
     return (
       <footer className="bg-gray-800 text-white p-4 text-center text-sm flex flex-col items-center">
-        <p>&copy; {new Date().getFullYear()} Tu Nombre. Todos los derechos reservados.</p>
+        <p>&copy; {new Date().getFullYear()} Letras Perdidas. Todos los derechos reservados.</p>
         <div className="flex items-center space-x-2">
           <p>
             Este sitio está protegido por una licencia{" "}
