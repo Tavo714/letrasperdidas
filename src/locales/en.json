@@ -1,0 +1,30 @@
+{
+    "navbar": {
+      "home": "Home",
+      "stories": "Stories",
+      "blog": "Blog",
+      "about": "About Me",
+      "contact": "Contact"
+    },
+    "home": {
+      "title": "Welcome to HistoriasWeb",
+      "description": "Explore stories, thoughts, and reflections."
+    },
+    "stories": {
+      "title": "Stories",
+      "description": "Here you will find all the stories I have written."
+    },
+    "blog": {
+      "title": "Blog",
+      "description": "Reflections, thoughts, and anything that comes to my mind."
+    },
+    "about": {
+      "title": "About Me",
+      "description": "A little about who I am and why I created this website."
+    },
+    "contact": {
+      "title": "Contact",
+      "description": "If you want to write to me, you can do it here."
+    }
+  }
+  

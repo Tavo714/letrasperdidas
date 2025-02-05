@@ -1,0 +1,30 @@
+{
+    "navbar": {
+      "home": "Inicio",
+      "stories": "Historias",
+      "blog": "Blog",
+      "about": "Sobre Mí",
+      "contact": "Contacto"
+    },
+    "home": {
+      "title": "Bienvenido a HistoriasWeb",
+      "description": "Explora historias, pensamientos y reflexiones."
+    },
+    "stories": {
+      "title": "Historias",
+      "description": "Aquí encontrarás todas las historias que he escrito."
+    },
+    "blog": {
+      "title": "Blog",
+      "description": "Reflexiones, pensamientos y cualquier cosa que se me ocurra."
+    },
+    "about": {
+      "title": "Sobre Mí",
+      "description": "Un poco sobre quién soy y por qué hago esta web."
+    },
+    "contact": {
+      "title": "Contacto",
+      "description": "Si quieres escribirme, aquí puedes hacerlo."
+    }
+  }
+  
